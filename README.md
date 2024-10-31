@@ -8,3 +8,5 @@ This repo provides the code of [Neuromorphic Imaging with Super-Resolution](http
   doi      =  {10.1109/TCSVT.2024.3482436},
 }
 ```
+![DEMO](./imgs/workflow.png)
+![DEMO](./imgs/ex.png)
