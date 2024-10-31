@@ -12,4 +12,4 @@ This repo provides the code of [Neuromorphic Imaging with Super-Resolution](http
 
 ![DEMO](./imgs/ex.png)
 
-More Neuromorphic Imaging projects in: [HKU Imaging Systems Laboratory](https://www.eee.hku.hk/~elam/research/pub-uf.html).
+More neuromorphic imaging projects in [HKU Imaging Systems Laboratory](https://www.eee.hku.hk/~elam/research/pub-uf.html).
