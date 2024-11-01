@@ -12,4 +12,10 @@ This repo provides the code of [Neuromorphic Imaging with Super-Resolution](http
 
 ![DEMO](./imgs/ex.png)
 
-More neuromorphic imaging projects in [HKU Imaging Systems Laboratory](https://www.eee.hku.hk/~elam/research/pub-uf.html).
+## Implementation
+1. Prepare your event sample (with `t, x, y, p` entries) in the `data` folder.
+2. Run the program
+   ```
+   CUDA_VISIBLE_DEVICES=0 python run_task.py
+   ```
+3. Check the `result` folder for your output files.
