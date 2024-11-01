@@ -1,5 +1,5 @@
 # Overview
-This repo provides the code of [Neuromorphic Imaging with Super-Resolution](https://doi.org/10.1109/TIP.2024.3374074).
+This repo provides the code of [Neuromorphic Imaging with Super-Resolution](https://doi.org/10.1109/TCSVT.2024.3482436).
 ```
 @article{zhang2024tcsvt,
   title    =  {Neuromorphic Imaging with Super-Resolution},
@@ -20,3 +20,6 @@ NOTE: The code provides an unoptimized prototype allowing you to make modificati
    CUDA_VISIBLE_DEVICES=0 python run_task.py
    ```
 3. Check the `result` folder for output files.
+
+## Result
+3D visualization (x, y, t) is a simple way to verify your result and its distribution.
