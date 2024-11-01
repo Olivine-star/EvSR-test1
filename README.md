@@ -22,4 +22,5 @@ NOTE: The code provides an unoptimized prototype allowing you to make modificati
 3. Check the `result` folder for output files.
 
 ## Result
-3D visualization (x, y, t) is a simple way to verify your result and its distribution.
+3D visualization (x, y, t) is a simple way to verify your result and its distribution:
+![DEMO](./imgs/demo.png)
