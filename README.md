@@ -13,9 +13,10 @@ This repo provides the code of [Neuromorphic Imaging with Super-Resolution](http
 ![DEMO](./imgs/ex.png)
 
 ## Implementation
+NOTE: The code provides an unoptimized prototype allowing you to make modifications as needed. You can try other networks and learning settings to meet various scenarios.
 1. Prepare your event sample (with `t, x, y, p` entries) in the `data` folder.
 2. Run the program
    ```
    CUDA_VISIBLE_DEVICES=0 python run_task.py
    ```
-3. Check the `result` folder for your output files.
+3. Check the `result` folder for output files.
