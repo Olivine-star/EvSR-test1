@@ -5,6 +5,11 @@ This repo provides the code of [Neuromorphic Imaging with Super-Resolution](http
   title    =  {Neuromorphic Imaging with Super-Resolution},
   author   =  {Pei Zhang and Shuo Zhu and Chutian Wang and Yaping Zhao and Edmund Y. Lam},
   journal  =  {IEEE Transactions on Circuits and Systems for Video Technology},
+  volume   =  {35},
+  number   =  {2},
+  pages    =  {1715--1727},
+  month    =  {February},
+  year     =  {2025},
   doi      =  {10.1109/TCSVT.2024.3482436},
 }
 ```
