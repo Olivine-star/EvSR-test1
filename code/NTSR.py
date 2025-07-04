@@ -4,6 +4,7 @@ from nett import *
 from configs import Config
 from torch.utils.data import DataLoader
 
+# NTSR.py
 class NTSR:
     def __init__(self, indata, outdata, indata_sr, conf=Config()):
         self.conf = conf

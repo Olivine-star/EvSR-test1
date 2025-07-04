@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 from math import sqrt
 
+
 class NetS(nn.Module):
     def __init__(self):
         super(NetS, self).__init__()
